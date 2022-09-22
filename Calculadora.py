@@ -1,4 +1,4 @@
-print("CALCULADORA")
+print("CALCULADORA DA MARI")
 
 valor1 = int(input("Por favor, digite um valor: "))
 valor2 = int(input("Por favor, digite outro valor: "))
